@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Datos generados (cada usuario tiene los suyos)
+datos/*.xlsx
+reportes/*.png
+
+# Mantener las carpetas en git aunque estén vacías
+!datos/.gitkeep
+!reportes/.gitkeep
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
