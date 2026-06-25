@@ -31,7 +31,7 @@ cuaderno, agregando cálculo automático de puntajes y análisis comparativo ent
 ## 📦 Instalación
 
 ```bash
-git clone https://github.com/TU_USUARIO/sistema-catacion-cafe.git
+git clone https://github.com/kevincin-ph/sistema-catacion.git
 cd sistema-catacion-cafe
 pip3 install -r requirements.txt
 ```
